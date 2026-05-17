@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Base Windows path accessible from WSL
+# Windows path
 WIN="/mnt/c/Users/sindy/Downloads/ANT-MD Simulations"
 DB=~/ANT-MDS-Database
 
@@ -88,6 +88,6 @@ cp -r "$WIN/desmond_setup_20_SaANT_Apo/Simulation Interactions Diagram/data1/raw
 cp -r "$WIN/desmond_setup_20_SaANT_Apo/Simulation Event Analysis/." "$DB/SaANT/Apo/analysis/SEA/"
 
 echo ""
-echo "Done! Verifying file counts..."
+echo "Done! Verifying file counts"
 echo "AbANT systems: $(ls $DB/AbANT/ | wc -l)"
 echo "SaANT systems: $(ls $DB/SaANT/ | wc -l)"
