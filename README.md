@@ -1,6 +1,6 @@
 # ANT-MD-Database
 
-Molecular dynamics simulation database for aminoglycoside nucleotidyltransferase (ANT) enzymes. Systems were prepared in Maestro (Schrödinger), simulated with Desmond, and analysed using MDAnalysis and custom Python pipelines.
+Molecular dynamics simulation database for 3" aminoglycoside nucleotidyltransferase (ANT) enzymes. Systems were prepared in Maestro (Schrödinger), simulated with Desmond, and analysed using MDAnalysis and custom Python pipelines.
 
 ---
 
@@ -24,9 +24,6 @@ trajectory/       # .xtc trajectory file (Git LFS)
 analysis/
   SID/            # Simulation Interaction Diagram .DAT files
   SEA/            # Simulation Event Analysis .csv and .st2 files
-  csvs/           # Python analysis output
-  figures/        # Publication-quality figures
-  scripts/        # Analysis scripts
 ```
 
 ---
@@ -59,12 +56,4 @@ git push origin main
 
 ---
 
-## Dependencies
-
-- Desmond (Schrödinger) — simulation
-- MDAnalysis — trajectory processing
-- Python 3.8+ — dPCA, FEL, distance analysis
-
----
-
-Menzi Sikakane · Registered Medical Scientist (Virology) · MSc Molecular and Cell Biology (Computational Structural Biology), University of the Witwatersrand
+Menzi Sikakane · Medical Scientist (Virology) · MSc Molecular and Cell Biology (Computational Structural Biology), University of the Witwatersrand
