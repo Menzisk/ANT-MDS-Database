@@ -1,0 +1,26 @@
+  # Frame#   Residue#      Chain    ResName  LigandFragment        Distance
+         3        112          A        TRP  L-FRAG_0:O4089           6.160 
+         4        112          A        TRP  L-FRAG_0:O4089           5.610 
+         5        112          A        TRP  L-FRAG_0:O4089           5.870 
+        10        173          A        TRP  L-FRAG_0:O4089           6.230 
+        11        173          A        TRP  L-FRAG_0:O4089           5.880 
+       149        122          A        PHE  L-FRAG_0:O4089           6.430 
+       339        231          A        TYR  L-FRAG_0:O4089           4.680 
+       340        231          A        TYR  L-FRAG_0:O4089           6.060 
+       341        231          A        TYR  L-FRAG_0:O4089           5.850 
+       368         23          A        HIS  L-FRAG_0:O4089           3.600 
+       375         23          A        HIS  L-FRAG_0:O4089           3.540 
+       376         23          A        HIS  L-FRAG_0:O4089           3.790 
+       379         23          A        HIS  L-FRAG_0:O4089           3.660 
+       468        141          A        HIS  L-FRAG_0:O4089           5.150 
+       469        141          A        HIS  L-FRAG_0:O4089           5.220 
+       470        141          A        HIS  L-FRAG_0:O4089           5.160 
+       516        141          A        HIS  L-FRAG_0:O4089           5.210 
+       521        141          A        HIS  L-FRAG_0:O4089           5.610 
+       658         93          A        HIS  L-FRAG_0:O4089           5.430 
+       659         93          A        HIS  L-FRAG_0:O4089           6.050 
+       660         93          A        HIS  L-FRAG_0:O4089           6.460 
+       662         93          A        HIS  L-FRAG_0:O4089           5.900 
+       663         93          A        HIS  L-FRAG_0:O4089           6.070 
+       697         45          A        HIS  L-FRAG_0:O4089           5.290 
+       753        252          A        TYR  L-FRAG_0:O4089           6.000 

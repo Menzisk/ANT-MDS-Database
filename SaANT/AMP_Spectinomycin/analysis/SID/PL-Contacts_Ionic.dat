@@ -1,0 +1,5 @@
+  # Frame#   Residue#      Chain    ResName   AtomName  LigandFragment      LigandAtom   Distance
+         3        203          A        LYS         NZ        L-FRAG_0           O4026      4.810 
+        11        203          A        LYS         NZ        L-FRAG_0           O4026      4.510 
+        12        203          A        LYS         NZ        L-FRAG_0           O4026      4.380 
+        58        203          A        LYS         NZ        L-FRAG_0           O4026      4.540 

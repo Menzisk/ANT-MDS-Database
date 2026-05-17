@@ -1,0 +1,4 @@
+  # Frame#            Type            Site       MetalSite   Distance
+       353       prot-side     A:LEU_172:O       prot-side      2.580 
+       353       prot-side   A:ASP_178:OD2       prot-side      2.320 
+       353          ligand  L-FRAG_1:N4057          ligand      2.900 

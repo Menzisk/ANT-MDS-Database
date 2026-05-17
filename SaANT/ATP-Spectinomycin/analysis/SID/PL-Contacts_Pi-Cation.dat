@@ -1,0 +1,13 @@
+  # Frame#   Residue#      Chain    ResName  LigandFragment        Distance
+         1         76          A        LYS        L-FRAG_1           4.970 
+       190        114          A        ARG        L-FRAG_1           5.900 
+       198        114          A        ARG        L-FRAG_1           6.360 
+       209        114          A        ARG        L-FRAG_1           6.580 
+       250        114          A        ARG        L-FRAG_1           5.670 
+       255        114          A        ARG        L-FRAG_1           6.020 
+       562         84          A        ARG        L-FRAG_1           6.440 
+       563         84          A        ARG        L-FRAG_1           6.120 
+       564         84          A        ARG        L-FRAG_1           6.240 
+       625         84          A        ARG        L-FRAG_1           6.390 
+       717         84          A        ARG        L-FRAG_1           6.220 
+       805         84          A        ARG        L-FRAG_1           6.460 

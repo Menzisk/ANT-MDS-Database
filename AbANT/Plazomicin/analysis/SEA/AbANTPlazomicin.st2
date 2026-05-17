@@ -1,0 +1,13 @@
+#Simulation Analysis Keyword File 2025-08-16T17:57:28.754370
+#Generated on structure: "frame1"
+#To execute:
+# $SCHRODINGER/run analyze_simulation.py /home/wits/Desktop/Menzi/New/desmond_setup_20_AbPlazomicin_2/desmond_md_job_AbPlazomicin/desmond_md_job_AbPlazomicin-out.cms /home/wits/Desktop/Menzi/New/desmond_setup_20_AbPlazomicin_2/desmond_md_job_AbPlazomicin/desmond_md_job_AbPlazomicin_trj AbANTPlazomicin-out.st2 AbANTPlazomicin.st2
+Keywords = [
+   {Rad_Gyration = {
+       ASL = "(chain.name A)"
+       Name = Unnamed
+       Unit = Angstrom
+    }
+   }
+]
+Trajectory = "/home/wits/Desktop/Menzi/New/desmond_setup_20_AbPlazomicin_2/desmond_md_job_AbPlazomicin/desmond_md_job_AbPlazomicin-out.cms"

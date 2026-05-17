@@ -1,0 +1,8 @@
+  # Frame#   Residue#      Chain    ResName  LigandFragment        Distance
+       344        252          A        TYR     L-FRAG_1:N1           6.390 
+       571         23          A        HIS     L-FRAG_1:N1           5.040 
+       598        231          A        TYR     L-FRAG_1:N1           5.500 
+       599        231          A        TYR     L-FRAG_1:N1           5.430 
+       600        231          A        TYR     L-FRAG_1:N1           5.680 
+       752        173          A        TRP     L-FRAG_1:N1           5.330 
+       762        173          A        TRP     L-FRAG_1:N1           5.790 

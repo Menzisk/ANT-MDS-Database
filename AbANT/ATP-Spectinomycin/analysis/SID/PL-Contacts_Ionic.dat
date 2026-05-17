@@ -1,0 +1,26 @@
+  # Frame#   Residue#      Chain    ResName   AtomName  LigandFragment      LigandAtom   Distance
+         1         87          A        GLU        OE2        L-FRAG_0           O4089      4.530 
+         2         87          A        GLU        OE2        L-FRAG_0           O4089      4.830 
+       227        168          A        GLU        OE2        L-FRAG_0           O4089      4.730 
+       251        247          A        GLU        OE2        L-FRAG_0           O4089      4.170 
+       302        152          A        GLU        OE2        L-FRAG_0           O4089      3.920 
+       303        152          A        GLU        OE2        L-FRAG_0           O4089      2.870 
+       304        152          A        GLU        OE2        L-FRAG_0           O4089      2.800 
+       308        152          A        GLU        OE2        L-FRAG_0           O4089      4.980 
+       309        152          A        GLU        OE2        L-FRAG_0           O4089      4.940 
+       311        152          A        GLU        OE2        L-FRAG_0           O4089      2.820 
+       313        152          A        GLU        OE2        L-FRAG_0           O4089      2.810 
+       414        159          A        GLU        OE2        L-FRAG_0           O4089      4.320 
+       464        214          A        GLU        OE2        L-FRAG_0           O4089      4.560 
+       524        152          A        GLU        OE2        L-FRAG_0           O4089      4.040 
+       556        244          A        ASP        OD2        L-FRAG_0           O4089      4.870 
+       618         59          A        ASP        OD2        L-FRAG_0           O4089      4.860 
+       679        116          A        ASP        OD2        L-FRAG_0           O4089      3.650 
+       680        116          A        ASP        OD2        L-FRAG_0           O4089      3.550 
+       681        116          A        ASP        OD2        L-FRAG_0           O4089      3.390 
+       682        116          A        ASP        OD2        L-FRAG_0           O4089      3.420 
+       683        116          A        ASP        OD2        L-FRAG_0           O4089      3.690 
+       796        152          A        GLU        OE2        L-FRAG_0           O4089      4.320 
+       804        152          A        GLU        OE2        L-FRAG_0           O4089      4.690 
+       891         81          A        GLU        OE2        L-FRAG_0           O4089      2.960 
+      1000         81          A        GLU        OE2        L-FRAG_0           O4089      4.030 

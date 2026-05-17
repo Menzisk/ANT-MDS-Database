@@ -1,0 +1,13 @@
+#Simulation Analysis Keyword File 2025-08-23T07:12:32.005498
+#Generated on structure: "frame1"
+#To execute:
+# $SCHRODINGER/run analyze_simulation.py /home/wits/Desktop/Menzi/New/desmond_setup_20_AbApigenin/desmond_md_job_AbANT_Apigenin/desmond_md_job_AbANT_Apigenin-out.cms /home/wits/Desktop/Menzi/New/desmond_setup_20_AbApigenin/desmond_md_job_AbANT_Apigenin/desmond_md_job_AbANT_Apigenin_trj AbANT_Apigenin-out.st2 AbANT_Apigenin.st2
+Keywords = [
+   {Rad_Gyration = {
+       ASL = "(chain.name A)"
+       Name = Unnamed
+       Unit = Angstrom
+    }
+   }
+]
+Trajectory = "/home/wits/Desktop/Menzi/New/desmond_setup_20_AbApigenin/desmond_md_job_AbANT_Apigenin/desmond_md_job_AbANT_Apigenin-out.cms"

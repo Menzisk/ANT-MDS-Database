@@ -1,0 +1,5 @@
+  # Frame#            Type            Site       MetalSite   Distance
+       550       prot-side     A:ARG_84:NE       prot-side      3.170 
+       550          ligand  L-FRAG_1:N4040          ligand      3.360 
+       892       prot-side    A:TYR_229:OH       prot-side      3.160 
+       892          ligand  L-FRAG_0:O4025          ligand      3.260 

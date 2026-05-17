@@ -1,0 +1,23 @@
+  # Frame#   Residue#      Chain    ResName  LigandFragment        Distance       Type
+        26         45          A        HIS        L-FRAG_7           5.140        e2f
+        28         45          A        HIS        L-FRAG_7           4.500        e2f
+        34         45          A        HIS        L-FRAG_7           4.930        e2f
+        68         45          A        HIS        L-FRAG_7           5.040        e2f
+        69         45          A        HIS        L-FRAG_7           5.220        e2f
+        71         45          A        HIS        L-FRAG_6           5.410        e2f
+        71         45          A        HIS        L-FRAG_7           4.920        e2f
+        73         45          A        HIS        L-FRAG_6           5.110        e2f
+        73         45          A        HIS        L-FRAG_7           5.490        e2f
+        74         45          A        HIS        L-FRAG_7           4.430        e2f
+        80         45          A        HIS        L-FRAG_6           5.200        e2f
+        82         45          A        HIS        L-FRAG_7           5.450        e2f
+        83         45          A        HIS        L-FRAG_6           5.240        e2f
+        95        231          A        TYR        L-FRAG_6           4.300        f2f
+        96        231          A        TYR        L-FRAG_6           5.070        e2f
+       559        122          A        PHE        L-FRAG_6           5.480        e2f
+       566        122          A        PHE        L-FRAG_6           5.470        e2f
+       569        122          A        PHE        L-FRAG_6           5.410        e2f
+       572        122          A        PHE        L-FRAG_6           5.230        e2f
+       631        122          A        PHE        L-FRAG_6           5.260        e2f
+       655        122          A        PHE        L-FRAG_6           5.260        e2f
+       881        122          A        PHE        L-FRAG_6           5.250        e2f

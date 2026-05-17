@@ -1,0 +1,11 @@
+  # Frame#            Type            Site       MetalSite   Distance
+        29       prot-side    A:LYS_137:NZ       prot-side      3.160 
+        29       prot-side   A:ARG_192:NH2       prot-side      3.240 
+        29          ligand     L-FRAG_0:O7          ligand      3.390 
+        36       prot-side    A:LYS_137:NZ       prot-side      3.390 
+        36          ligand     L-FRAG_0:O6          ligand      3.190 
+        36          ligand     L-FRAG_0:O7          ligand      3.350 
+       545       prot-side   A:ARG_238:NH1       prot-side      3.240 
+       545          ligand     L-FRAG_1:N1          ligand      3.170 
+       547       prot-side   A:ARG_238:NH1       prot-side      3.310 
+       547          ligand     L-FRAG_1:N1          ligand      3.250 
