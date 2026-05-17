@@ -1,6 +1,6 @@
 # ANT-MD-Database
 
-Molecular dynamics simulation database for 3" aminoglycoside nucleotidyltransferase (ANT) enzymes with their natural substrates, aminoglycoside, flavonoid ligands. Systems were prepared in Maestro (Schrödinger) and simulated with Desmond (Schrödinger).
+Molecular dynamics simulation database for 3" aminoglycoside nucleotidyltransferase (ANT) enzymes with their natural substrates, aminoglycoside and flavonoid ligands. Systems were prepared in Maestro (Schrödinger) and simulated with Desmond (Schrödinger).
 
 ---
 
