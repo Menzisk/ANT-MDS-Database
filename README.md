@@ -22,7 +22,7 @@ configs/          # Desmond .msj and .cfg files
 topology/         # .cms and .pdb files (Git LFS)
 trajectory/       # .xtc trajectory file (Git LFS)
 analysis/
-  SID/            # Simulation Interaction Diagram .DAT files
+  SID/            # Simulation Interaction Diagram .dat and .eaf files
   SEA/            # Simulation Event Analysis .csv and .st2 files
 ```
 
