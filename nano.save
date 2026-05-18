@@ -1,0 +1,40 @@
+# Plazomicin
+cp -r "$WIN/desmond_setup_20_AbANT_Plazomicin_2/desmond_md_job_AbPlazomicin/." "$DB/AbANT/Plazomicin/configs/"
+cp -r "$WIN/desmond_setup_20_AbANT_Plazomicin_2/Simulation Interaction Diagram/data1/raw-data/." "$DB/AbANT/Plazomicin/analysis/SID/"
+cp -r "$WIN/desmond_setup_20_AbANT_Plazomicin_2/Simulation Event Analysis/." "$DB/AbANT/Plazomicin/analysis/SEA/"
+
+# Spectinomycin
+cp -r "$WIN/desmond_setup_20_AbANT_Spectinomycin/desmond_md_job_AbANT_Spectinomycin/." "$DB/AbANT/Spectinomycin/configs/"
+cp -r "$WIN/desmond_setup_20_AbANT_Spectinomycin/Simulation Interactions Diagram/data1/raw-data/." "$DB/AbANT/Spectinomycin/analysis/SID/"
+cp -r "$WIN/desmond_setup_20_AbANT_Spectinomycin/Simulation Event Analysis/." "$DB/AbANT/Spectinomycin/analysis/SEA/"
+
+# Apigenin-7-O-gentiobioside
+cp -r "$WIN/desmond_setup_20_AbANT_Apigenin/desmond_md_job_AbANT_Apigenin/." "$DB/AbANT/Apigenin-7-O-gentiobioside/configs/"
+cp -r "$WIN/desmond_setup_20_AbANT_Apigenin/Simulation Interactions Diagram/." "$DB/AbANT/Apigenin-7-O-gentiobioside/analysis/SID/"
+cp -r "$WIN/desmond_setup_20_AbANT_Apigenin/Simulation Event Analysis/." "$DB/AbANT/Apigenin-7-O-gentiobioside/analysis/SEA/"
+
+# ATP
+cp -r "$WIN/desmond_setup_20_AbANT_ATP/desmond_md_job_AbANT_ATP/." "$DB/AbANT/ATP/configs/"
+cp -r "$WIN/desmond_setup_20_AbANT_ATP/Simulation Interactions Diagram/data1/raw-data/." "$DB/AbANT/ATP/analysis/SID/"
+cp -r "$WIN/desmond_setup_20_AbANT_ATP/Simulation Event Analysis/." "$DB/AbANT/ATP/analysis/SEA/"
+
+# ATP-Spectinomycin
+cp -r "$WIN/desmond_setup_20_AbANT_ATP_Spectinomycin/desmond_md_job_AbANT_ATP_Spectinomycin/." "$DB/AbANT/ATP-Spectinomycin/configs/"
+cp -r "$WIN/desmond_setup_20_AbANT_ATP_Spectinomycin/Simulation Interaction Diagram Spec/data1/raw-data/." "$DB/AbANT/ATP-Spectinomycin/analysis/SID/"
+cp -r "$WIN/desmond_setup_20_AbANT_ATP_Spectinomycin/Simulation Event Analysis/." "$DB/AbANT/ATP-Spectinomycin/analysis/SEA/"
+
+# AMP-Spectinomycin
+cp -r "$WIN/desmond_setup_20_AbANT_AMP_Spectinomycin/desmond_md_job_Ab_AMP_Spectinomycin/." "$DB/AbANT/AMP-Spectinomycin/configs/"
+cp -r "$WIN/desmond_setup_20_AbANT_AMP_Spectinomycin/Simulation Interaction Diagram/data1/raw-data/." "$DB/AbANT/AMP-Spectinomycin/analysis/SID/"
+cp -r "$WIN/desmond_setup_20_AbANT_AMP_Spectinomycin/Simulation Event Analysis/." "$DB/AbANT/AMP-Spectinomycin/analysis/SEA/"
+
+# AMP_Spectinomycin (double hyphen folder)
+cp -r "$WIN/desmond_md_Ab_AMP--Strept-20250916T111514Z-1-001/desmond_md_Ab_AMP--Strept/." "$DB/AbANT/AMP_Spectinomycin/configs/"
+cp -r "$WIN/desmond_md_Ab_AMP--Strept-20250916T111514Z-1-001/Simulation Interactions Diagram/data1/raw-data/." "$DB/AbANT/AMP_Spectinomycin/analysis/SID/"
+cp -r "$WIN/desmond_md_Ab_AMP--Strept-20250916T111514Z-1-001/Simulation Event Analysis/." "$DB/AbANT/AMP_Spectinomycin/analysis/SEA/"
+
+# Apo
+cp -r "$WIN/desmond_setup_20_AbANT_Apo/desmond_md_job_AbANTApo/." "$DB/AbANT/Apo/configs/"
+cp -r "$WIN/desmond_setup_20_AbANT_Apo/Simulation Interactions Diagram/data1/raw-data/." "$DB/AbANT/Apo/analysis/SID/"
+cp -r "$WIN/desmond_setup_20_AbANT_Apo/Simulation Event Analysis/." "$DB/AbANT/Apo/analysis/SEA/"
+
