@@ -80,6 +80,3 @@ Manuscript in preparation. Sikakane M. et al., 2026.
 ---
 
 Menzi Sikakane · Medical Scientist (Virology) · MSc (Bioinformatics and Computational Structural Biology), University of the Witwatersrand
----
-
-Menzi Sikakane · Medical Scientist (Virology) · MSc Molecular and Cell Biology (Computational Structural Biology), University of the Witwatersrand
