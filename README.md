@@ -79,7 +79,7 @@ Analysis scripts and pipeline outputs for this trajectory data are in the compan
 
 ## Reference
 
-Manuscript in preparation. Sikakane M. et al., 2026.
+Manuscript in preparation. Title: Plazomicin Reveals Orthologue-Specific Active-Site Plasticity in Aminoglycoside Nucleotidyltransferases Sikakane M. et al., 2026.
 
 ---
 
